@@ -17,7 +17,7 @@ slogan: 'Praticienne en Médecine Traditionnelle Chinoise'
 description: 'Marion Rousseaux - Praticienne en Médecine Traditionnelle Chinoise à Attin / Montreuil sur Mer'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Crée sur inspiration en creative commons par <a href="http://phlow.de/">Phlow</a> avec <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> basé sur <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Créé sur inspiration du travail de<a href="http://phlow.de/">Phlow</a> avec <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> basé sur <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -38,11 +38,11 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://marionrousseaux.fr/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo1.png"
 
 # Plugins
 plugins:
@@ -143,9 +143,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+google_author:             ''
+google_site_verification:  ''
+bing_webmastertools_id:    ''
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
@@ -158,17 +158,17 @@ bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
+favicon-32x32:                          'xfavicon-32x32.png'
+touch-icon-192x192:                     'xtouch-icon-192x192.png'
+apple-touch-icon-180x180-precomposed:   'xapple-touch-icon-180x180-precomposed.png'
+apple-touch-icon-152x152-precomposed:   'xapple-touch-icon-152x152-precomposed.png'
+apple-touch-icon-144x144-precomposed:   'xapple-touch-icon-144x144-precomposed.png'
+apple-touch-icon-120x120-precomposed:   'xapple-touch-icon-120x120-precomposed.png'
+apple-touch-icon-114x114-precomposed:   'xapple-touch-icon-114x114-precomposed.png'
+apple-touch-icon-76x76-precomposed:     'xapple-touch-icon-76x76-precomposed.png'
+apple-touch-icon-72x72-precomposed:     'xapple-touch-icon-72x72-precomposed.png'
+apple-touch-icon-precomposed:           'xapple-touch-icon-precomposed.png'
+msapplication_tileimage:                'xmsapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
 
 
@@ -178,7 +178,7 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image:                           'xhttp://images.phlow.de/phlow/phlow_de-logo-512x.png'
 og_locale:                          'en_EN'
 og_type:                            'website'
 
@@ -193,8 +193,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: 
+    facebook: 
 
 
 #        ____  _
@@ -206,7 +206,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: 
 
 
 #      _____
@@ -230,8 +230,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
-
+google_analytics_tracking_id: 
 
 
 #   _                 _     _
