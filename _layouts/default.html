@@ -14,14 +14,15 @@ layout: compress
 	{% include _masthead.html %}
 	{{ content }}
 
-	{% comment %}
+	
 	
 	{% unless page.skip_boilerplate %}
 	{% include _footer.html %}
 	{% endunless %}
 
+	{% comment %}
 	{% include _footer_scripts.html %}
-	
 	{% endcomment %}
+	
 </body>
 </html>
