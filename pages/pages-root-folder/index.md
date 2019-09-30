@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: mailto:marion.rousseaux@gmail.com
-  text: Envoyer un mail ›
+  url: 
+  text: Mon activité vient de démarrer même si ce site est en cours de construction. N'hésitez pas à me contacter.
   style: alert
 permalink: /index.html
 #
