@@ -17,10 +17,6 @@ widget2:
   url: ''
   text: 'marion.rousseaux@gmail.com<br>0782752983'
   video: ''
-widget3:
-  title: ""
-  url: ''
-  text: ''
 #
 # Use the call for action to show a button on the frontpage
 #
