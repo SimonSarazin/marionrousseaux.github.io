@@ -29,7 +29,7 @@ widget2:
 #
 callforaction:
   url: 
-  text: Mon activité vient de démarrer même si ce site est en cours de construction. N'hésitez pas à me contacter.
+  text: Si vous souhaitez prendre rendez-vous ou avez besoin d'informations complémentaires, n'hésitez pas à me contacter directement au 0782752983 ou m'envoyer un mail à l'adresse suivante : marion.rousseaux@gmail.com
   style: alert
 permalink: /index.html
 #
