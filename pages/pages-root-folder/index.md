@@ -8,14 +8,14 @@ layout: frontpage
 header:
   image_fullwidth: UT5A8884.JPG
 widget1:
-  title: "Marion Rousseaux"
+  title: ""
   url: 'Praticienne en Médecine Traditionnelle Chinoise'
   image: UT5A8877.JPG
   text: ' .'
 widget2:
-  title: "0782752983"
+  title: "Marion Rousseaux - Praticienne en Médecine Traditionnelle Chinoise"
   url: ''
-  text: 'marion.rousseaux@gmail.com'
+  text: 'marion.rousseaux@gmail.com<br><br> 0782752983'
   video: ''
 widget3:
   title: ""
