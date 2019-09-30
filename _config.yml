@@ -41,9 +41,6 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 urlimg: 'https://marionrousseaux.fr/images/'
 
 
-# Logo size is 600x80 pixels
-logo: ""
-
 # Plugins
 plugins:
     - jekyll-asciidoc
