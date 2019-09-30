@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Marion Rousseaux'
+title: ''
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Praticienne en Médecine Traditionnelle Chinoise'
+slogan: ''
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Marion Rousseaux - Praticienne en Médecine Traditionnelle Chinoise à Attin / Montreuil sur Mer'
@@ -42,7 +42,7 @@ urlimg: 'https://marionrousseaux.fr/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo1.png"
+logo: ""
 
 # Plugins
 plugins:
@@ -80,7 +80,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'fr'
 
 
 # Used › default.html front-matter and compress.html
