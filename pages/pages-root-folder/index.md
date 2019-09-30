@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Marion Rousseaux - Praticienne en Médecine Traditionnelle Chinoise"
   url: ''
-  text: 'marion.rousseaux@gmail.com<br><br> 0782752983'
+  text: 'marion.rousseaux@gmail.com<br>0782752983'
   video: ''
 widget3:
   title: ""
