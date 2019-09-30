@@ -20,7 +20,6 @@ widget2:
 widget3:
   title: ""
   url: ''
-  image: 
   text: ''
 #
 # Use the call for action to show a button on the frontpage
