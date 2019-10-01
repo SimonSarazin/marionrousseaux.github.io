@@ -1457,10 +1457,18 @@ a#logo {
     display: none;
 }
 
-button.alert, .button.alert {
+.button.alert, .button.alert {
     background-color: #C59649;
 }
 
-button.alert {
+.button.alert {
+    background-color: #C59649;
+}
+
+.button.alert:hover  {
+    background-color: #C59649;
+}
+
+.button.alert:focus {
     background-color: #C59649;
 }
